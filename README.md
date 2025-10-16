@@ -3,7 +3,7 @@
 
 ## Установка
 1. Клонируйте репозиторий: `git clone <URL>`
-2. Перейдите в реп WarehouseApp: cd Warehouse
+2. Перейдите в реп WarehouseApp: `cd Warehouse`
 3. Установите зависимости: `dotnet restore`
 4. Примените миграции: `dotnet ef database update --context WarehouseContext`
 5. Запустите: `dotnet run`
